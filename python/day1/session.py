@@ -152,6 +152,6 @@ print(f"Addition: {int(num1) + int(num2)}") # this will work because we are conv
 
 
 # project first -> create a simple calculator that takes two numbers and
-#                    an operator as input and performs the corresponding 
+#                   a mathemetican operator as input and performs the corresponding 
 #                   operation (addition, subtraction, multiplication, division)
-#                    and prints the result.
+#                    and prints the result. give the name of this project as calculator.py
