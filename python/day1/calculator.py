@@ -1,12 +1,13 @@
 num1 = int(input("Enter first number :"))
 num2 = int(input("Enter second number :"))
+oprator = input()
 
 # int -> addition, subtraction, multiplication, division, floor division, remainder, power 
 
 print(f"Addition : {num1 + num2}") # f means formatted string literals or f-strings, 
-                                # it allows us to embed expressions inside string literals, 
-                                # # using curly braces {}. The expressions are evaluated at 
-                                # # runtime and then formatted using the format() protocol.
+#                                    it allows us to embed expressions inside string literals, 
+#                                     using curly braces {}. The expressions are evaluated at 
+#                                     runtime and then formatted using the format() protocol.
 
 print(f"Subtraction : {num1 - num2}")
 print(f"Multiplication : {num1 * num2}")

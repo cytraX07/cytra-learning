@@ -15,3 +15,12 @@ def subtract(*numbers):
 
 subtract(8, 5)
 # how many types of argumnts?
+# Python mein mainly 4 types ke arguments hote hain:
+
+# Positional Arguments
+
+# Keyword Arguments
+
+# Default Arguments
+
+# Variable-length Arguments (Jo aapne *args use kiya hai, aur ek **kwargs bhi hota hai).
