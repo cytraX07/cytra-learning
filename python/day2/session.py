@@ -66,6 +66,8 @@ if username == "abc" and password == "abc1234":
     print("Login successful")
 elif username == "abc" and password != "abc1234":
     print("Invalid password")
+elif username != "abc" and password == "abc1234":
+    print("Invalid Username")
 else:
     print("Invalid username or password")
 

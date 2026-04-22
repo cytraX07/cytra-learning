@@ -1,7 +1,7 @@
 #what is python?
 # python is a high level programming language
 # python is an interpreted language
-# python is a general purpose programming language
+# python is a  purpose programming language
 # python is a dynamically typed language
 # python is a object oriented programming language
 # python is a easy to learn and use language

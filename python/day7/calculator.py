@@ -9,8 +9,7 @@ def add():
     number2 = e2.get()
     addition = int(number1)+int(number2)
     messagebox.showinfo("adding succesfull", addition)
-    print(f"added successful:"+ {number1} + "" + number2 + "-->"+ addition)
-
+    
 def sub():
     number1 = e1.get()
     number2 = e2.get()

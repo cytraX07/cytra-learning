@@ -31,6 +31,8 @@ def add_task():
 
         entry.delete(0, 'end')
         print(task)
+    else:
+        response = messagebox.showerror("Missing", "Task Not Entred In The Field, Please Entre Task In The Field")
 
 def load_task():
     print("task loading ...................")
@@ -121,8 +123,8 @@ entry.pack(side='left', padx=5)
 add_button = tk.Button(input_frame, width=10, text="Add Task", command = add_task)
 add_button.pack(side='left',padx=2)
 
-delete_button = tk.Button(input_frame, width=20, text="Delete Last Items", command=delete_task)
-delete_button.pack(side='right', padx=2)
+delete_button = tk.Button(input_frame, width=15, text="Delete Last Items", command=delete_task)
+delete_button.pack(side='left', padx=2)
 
 
 

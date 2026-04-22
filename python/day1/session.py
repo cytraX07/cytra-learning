@@ -68,7 +68,7 @@ age = 15
 # integer -> whole numbers without a decimal point
 
 age = 25
-print( type(age))
+print(type(age))
 
 # float -> numbers with a decimal point
 

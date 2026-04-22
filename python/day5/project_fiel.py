@@ -5,13 +5,6 @@
 # EASY PROJECTS
 # ------------------------------
 
-# 1. Advanced Calculator
-# - Features:
-#   Add, Subtract, Multiply, Divide
-#   Handle division by zero
-# - Concepts:
-#   Functions, Exception Handling
-
 # 2. List Manager App
 # - Features:
 #   Add item
